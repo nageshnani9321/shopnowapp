@@ -1,5 +1,6 @@
 import React from "react";
-import PlaceHolder from "./placeHolder";
+import PlaceHolder from './placeHolder';
+
 
 const PlaceHolderContainer = ({ count }) => {
     const placenumbers = Array.from({ length: count });
