@@ -1,5 +1,5 @@
 import React from "react";
-import PlaceHolder from './placeHolder';
+import PlaceHolder from './PlaceHolder.jsx';
 
 
 const PlaceHolderContainer = ({ count }) => {
